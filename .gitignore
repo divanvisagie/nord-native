@@ -1,1 +1,3 @@
 node_modules
+*.vsixa
+*.DS_Store
