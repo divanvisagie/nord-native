@@ -6,6 +6,10 @@ The Arctic Ice Studio Nord theme with the blueish tint removed to match the dark
 
 ## Installation
 
+## VSCode Marketplace
+
+Nord Native is available on the [marketplace](https://marketplace.visualstudio.com/items?itemName=divanvisagie.nord-native-theme)
+
 ### Manual Install
 
 Clone the code into `~/.vscode/extensions` so the final path should be `~/.vscode/extensions/nord-native`
