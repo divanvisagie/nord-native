@@ -122,7 +122,7 @@
     "list.inactiveSelectionBackground": "#434343",
     "list.inactiveSelectionForeground": "#d8d8d8",
     "list.inactiveFocusBackground": "#434343cc",
-    "list.hoverForeground": "#eceff4",
+    "list.hoverForeground": "#ececec",
     "list.focusForeground": "#d8d8d8",
     "list.focusBackground": "#88c0d099",
     "list.hoverBackground": "#2b2b2b",
@@ -244,14 +244,14 @@
     "terminal.ansiBrightBlue": "#81a1c1",
     "terminal.ansiBrightMagenta": "#b48ead",
     "terminal.ansiBrightCyan": "#8fbcbb",
-    "terminal.ansiBrightWhite": "#eceff4",
+    "terminal.ansiBrightWhite": "#ececec",
     "textBlockQuote.background": "#2b2b2b",
     "textBlockQuote.border": "#81a1c1",
     "textCodeBlock.background": "#555555",
     "textLink.activeForeground": "#88c0d0",
     "textLink.foreground": "#88c0d0",
     "textPreformat.foreground": "#8fbcbb",
-    "textSeparator.foreground": "#eceff4",
+    "textSeparator.foreground": "#ececec",
     "titleBar.activeBackground": "#222222",
     "titleBar.activeForeground": "#d8d8d8",
     "titleBar.border": "#22222200",
@@ -436,7 +436,7 @@
       "name": "Punctuation",
       "scope": "punctuation",
       "settings": {
-        "foreground": "#ECEFF4"
+        "foreground": "#ececec"
       }
     },
     {
@@ -447,7 +447,7 @@
         "punctuation.definition.parameters"
       ],
       "settings": {
-        "foreground": "#ECEFF4"
+        "foreground": "#ececec"
       }
     },
     {
@@ -472,7 +472,7 @@
       "name": "Punctuation Section",
       "scope": "punctuation.section",
       "settings": {
-        "foreground": "#ECEFF4"
+        "foreground": "#ececec"
       }
     },
     {
@@ -907,7 +907,7 @@
       "name": "[JavaScript] Interpolated String Template Punctuation Functions",
       "scope": "source.js string.quoted.template meta.method-call.with-arguments",
       "settings": {
-        "foreground": "#ECEFF4"
+        "foreground": "#ececec"
       }
     },
     {
@@ -951,7 +951,7 @@
         "source.js string.quoted.template meta.brace.round",
       ],
       "settings": {
-        "foreground": "#ECEFF4"
+        "foreground": "#ececec"
       }
     },
     {
@@ -1231,7 +1231,7 @@
         "source.tsx meta.embedded.line meta.brace.round"
       ],
       "settings": {
-        "foreground": "#ECEFF4"
+        "foreground": "#ececec"
       }
     },
     {
