@@ -13,3 +13,10 @@ Nord Native is available on the [marketplace](https://marketplace.visualstudio.c
 ### Manual Install
 
 Clone the code into `~/.vscode/extensions` so the final path should be `~/.vscode/extensions/nord-native`
+
+## Development
+
+### Publishing
+- Update version number in package.json
+- `npm i package-lock-only`
+- Create tagged release
