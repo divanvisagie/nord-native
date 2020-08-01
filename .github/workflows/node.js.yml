@@ -24,11 +24,6 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
-    - run: npm run build --if-present
-    
-    - name: vsce publish
-      uses: sigma/vsce-publish-action@v0.0.2
-      with:
-        # vsce token
-        vsce_token:  ${{ secrets.VSCE_TOKEN }}
-    
+      run: |
+        npm i
+        npm run build
