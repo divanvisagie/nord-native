@@ -10,11 +10,11 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-
     steps:
-    - name: vsce publish
-      uses: sigma/vsce-publish-action@v0.0.2
-      with:
-        # vsce token
-        vsce_token:  ${{ secrets.VSCE_TOKEN }}
-      
+      - uses: actions/checkout@v2
+      - run: npm install
+      - uses: lannonbr/vsce-action@master
+        with:
+          args: "publish -p $VSCE_TOKEN"
+        env:
+          VSCE_TOKEN: ${{ secrets.VSCE_TOKEN }}
