@@ -1,7 +1,7 @@
 {
 	"name": "nord-native-theme",
 	"displayName": "Nord Native",
-	"version": "0.0.4",
+	"version": "0.0.5",
 	"publisher": "divanvisagie",
 	"description": "The Arctic Ice Studio Nord theme with the blueish tint removed to match the dark mode background colours of the native os.",
 	"contributes": {
