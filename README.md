@@ -18,5 +18,5 @@ Clone the code into `~/.vscode/extensions` so the final path should be `~/.vscod
 
 ### Publishing
 - Update version number in package.json
-- `npm i package-lock-only`
+- `npm i --package-lock-only`
 - Create tagged release
