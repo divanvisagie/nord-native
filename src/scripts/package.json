@@ -1,0 +1,19 @@
+{
+  "name": "scripts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "download": "ts-node ./download.ts",
+    "process": "ts-node ./darkify.ts"
+  },
+  "dependencies": {
+    "@types/node-fetch": "^2.5.10",
+    "node-fetch": "^2.6.1",
+    "typescript": "^4.3.4"
+  },
+  "devDependencies": {
+    "@types/node": "^15.12.4",
+    "ts-node": "^10.0.0"
+  }
+}
