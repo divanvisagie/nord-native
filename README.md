@@ -1,6 +1,8 @@
 # Nord Native
 
+[![Node.js CI](https://github.com/divanvisagie/nord-native/actions/workflows/node.js.yml/badge.svg)](https://github.com/divanvisagie/nord-native/actions/workflows/node.js.yml)
 [![Upload Marketplace Package](https://github.com/divanvisagie/nord-native/actions/workflows/package-publish.yml/badge.svg)](https://github.com/divanvisagie/nord-native/actions/workflows/package-publish.yml)
+
 
 The Arctic Ice Studio Nord theme with the blueish tint removed to match the dark mode background colours of the native os.
 
