@@ -1,0 +1,9 @@
+.git
+.github
+.gitignore
+src
+node_modules
+*.vsix
+tsconfig.json
+yarn.lock
+package-lock.json

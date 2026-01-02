@@ -37,15 +37,12 @@
 	},
 	"homepage": "https://divanv.com/nord-native",
 	"devDependencies": {
-		"http-server": "^0.12.3",
-		"vsce": "^1.103.1"
+		"@vscode/vsce": "^3.7.1",
+		"http-server": "^14.1.1"
 	},
 	"__metadata": {
 		"id": "9e832b88-f0e2-408e-ac4f-eddfaeb6b75c",
 		"publisherDisplayName": "Divan Visagie",
 		"publisherId": "dedf4a81-fd05-4034-972b-aff0a6ae4628"
-	},
-	"dependencies": {
-		"package-lock-only": "0.0.4"
 	}
 }
