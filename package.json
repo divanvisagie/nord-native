@@ -38,7 +38,7 @@
 	"homepage": "https://divanv.com/nord-native",
 	"devDependencies": {
 		"http-server": "^0.12.3",
-		"vsce": "^1.77.0"
+		"vsce": "^1.103.1"
 	},
 	"__metadata": {
 		"id": "9e832b88-f0e2-408e-ac4f-eddfaeb6b75c",
